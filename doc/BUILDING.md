@@ -13,15 +13,14 @@
 - [MSYS2](https://msys2.github.io/)
 - [MinGW-w64](http://mingw-w64.org/doku.php)
 
-Optional:
+### MacOSX
+- [Homebrew](http://brew.sh/)
 
+#### Optional:
 - [Clang](http://clang.llvm.org/) 3.5 ([3.6 on FreeBSD](https://llvm.org/bugs/show_bug.cgi?id=28887))
 - [MiniUPnP](https://github.com/miniupnp/miniupnp/releases) 1.6 (Recommeded if you are behind a NAT without access to it)
 - [Doxygen](http://www.doxygen.org/) 1.8.6
 - [Graphviz](http://graphviz.org/) 2.36
-
-### MacOSX
-- [Homebrew](http://brew.sh/)
 
 ## Step 2. Install dependencies
 
